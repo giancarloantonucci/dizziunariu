@@ -1,2 +1,1 @@
-# dizionario-siciliano
-Dizionario di Siciliano
+# Dizionario di Siciliano
